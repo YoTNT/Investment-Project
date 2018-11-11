@@ -6,3 +6,16 @@ Date and Time
 Description
 ***/
 
+
+
+Requesting for stock's price
+11.11.2018
+It's doable to use API iexfinance to request for the stocks' prices.
+Here's example code(in Python):
+
+  import iexfinance import Stock
+  
+  appl = Stock("aapl")
+  appl.get_price()
+ 
+The data here is 15 minutes delay.
