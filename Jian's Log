@@ -19,3 +19,11 @@ Here's example code(in Python):
   appl.get_price()
  
 The data here is 15 minutes delay.
+
+
+Open Source Code for UI
+11.12.2018
+Link:
+https://steemit.com/utopian-io/@faad/kivy-develop-a-cryptocurrency-price-cheker-app-4
+This is a good open source code for developing a CryptoCurrency check list.
+Data for composite indices for markect are haven't been found yet.
